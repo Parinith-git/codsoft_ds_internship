@@ -1,6 +1,6 @@
 # CodSoft Data Science Internship Projects
 
-This repository contains all the projects completed as part of the **CodSoft Data Science Internship**. Each task covers a unique machine learning problem — from classification to fraud detection — using Python and popular data science libraries.
+This repository contains all the projects completed as part of the **CodSoft Data Science Internship**. Each task covers a unique machine learning problem from classification to fraud detection using Python and popular data science libraries.
 
 ---
 
@@ -52,7 +52,7 @@ codsoft-data-science-internship/
 
 ## Task 3 · Iris Flower Classification
 
-**Goal:** Classify iris flowers into three species — *Setosa*, *Versicolor*, and *Virginica* — using sepal and petal measurements.
+**Goal:** Classify iris flowers into three species *Setosa*, *Versicolor*, and *Virginica* using sepal and petal measurements.
 
 - Dataset: Classic Iris dataset (widely used for introductory ML)
 - Algorithms used: K-Nearest Neighbors, Decision Tree, SVM
